@@ -6,7 +6,6 @@ A collection of numerical linear algebra algorithms implemented in Python, focus
 
 ### Direct Methods
 - Gaussian Elimination
-- Gaussian Elimination with Partial Pivoting
 - LU Decomposition
 
 ### Iterative Methods
